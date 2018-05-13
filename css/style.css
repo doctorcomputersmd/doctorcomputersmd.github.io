@@ -1,0 +1,9 @@
+.dc_head{
+	font-family: 'Skranji';
+	margin-left: 10px;
+}
+
+@font-face {
+    font-family: 'Skranji';
+    src: url('../font/Skranji-Regular.ttf');
+}
